@@ -1,5 +1,5 @@
-⭐ 22 years old :aquarius:
-🗺️ Barcelos - Portugal <pt>
+:male_sign: 22 years old :aquarius: <br>
+🗺️ Barcelos - Portugal <br>
 
 
 ## CONTACTS
