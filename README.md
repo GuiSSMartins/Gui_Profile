@@ -1,8 +1,19 @@
+## Guilherme Martins
+
 :male_sign: 22 years old :aquarius: <br>
-🗺️ Barcelos - Portugal <br>
+🗺️ Barcelos - Portugal :portugal: <br>
 
 
 ## CONTACTS
+  
+<div> 
+  <a href="mailto:guissmartins.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  <a href="https://www.linkedin.com/in/guilherme-martins-92024614b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
