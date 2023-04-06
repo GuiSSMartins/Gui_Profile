@@ -2,7 +2,8 @@
 
 :male_sign: 22 years old :aquarius: <br>
 🗺️ Barcelos - Portugal :portugal: <br>
-
+📚 (Currently) Bachelor in Informatics / Software Engineering - University of Minho <a href="eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=4699&catId=14" target"_blank"> <br>
+:electron: Volunteer Researcher at ALGORITMI Center - Braga <br>
 
 ## CONTACTS
   
