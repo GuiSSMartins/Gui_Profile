@@ -1,10 +1,13 @@
-## Guilherme Martins
+# Guilherme Martins
 
 :male_sign: 22 years old :aquarius: <br>
 🗺️ Barcelos - Portugal :portugal: <br>
-📚 (Currently) Bachelor in Informatics / Software Engineering - University of Minho <a href="https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=4699&catId=14" target="_blank">Study Plan</a>
+📚 (Currently) Masters in Mathematics and Computation (Computer Science) - Univeristy of Minho <a href="https://www.ecum.uminho.pt/en/Ensino/Pages/masters/Master-Degree-in-Mathematics-and-Computation.aspx">Study Plan</a> <br>
+📚 (Finished) Bachelor in Informatics / Software Engineering - University of Minho <a 
+href="https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=4699&catId=14" target="_blank">Study Plan</a>
  <br>
-:electron: Volunteer Researcher at ALGORITMI Center - Braga <br>
+:electron: Volunteer Researcher at ALGORITMI Center - Braga, Portugal <br>
+
 
 ## CONTACTS
   
