@@ -8,6 +8,12 @@ href="https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages
  <br>
 :electron: Volunteer Researcher at ALGORITMI Center - Braga, Portugal <br>
 
+## Passions / Likes
+- Programming Paradigms (and recently Quantum paradigm)
+- Statistics (mainly computational)
+- Data Science (including Databases and Applied Machine Learning)
+- Numerical Methods (up to EDPs - simulations in Physics context)
+- Applied Physics (mostly classic Physics and Quantum Mechanics)
 
 ## CONTACTS
   
